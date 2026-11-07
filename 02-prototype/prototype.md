@@ -8,6 +8,9 @@ https://claude.ai/artifact/1xRkCT2igRCzX3HiteDFw3?sk=X-N_jxPHqEv7491XdyHSdw#artb
 
 In case this is not accesssible (I believe it is restricted to our Organisation I have attached the pdf and description). 
 
+[Juno PM Monday Board.pdf](https://github.com/user-attachments/files/34529516/Juno.PM.Monday.Board.pdf)
+
+
 DESCRIPTION: The prototype is ready: a clickable version of the PM’s Jira board at 10:00 on Monday 9 Nov, showing what Juno produced in its 08:00 run.
 
 What you can do in it:
