@@ -532,6 +532,6 @@ _____
 
 ## Debrief
 
-- **What worked:** _____
-- **What broke / felt like a toy:** _____
-- **What I'd change next pass:** _____
+- **What worked:** The structure looked as expected for a ticket. 
+- **What broke / felt like a toy:** It was not interactive except to open the details of a ticket, so I'm not really sure how much value it added. 
+- **What I'd change next pass:** Ask to show the database of threads or tickets, or open invented ones, to see if the verification works as that's the most important element. To see if its summarising and referencing data effectively. 
