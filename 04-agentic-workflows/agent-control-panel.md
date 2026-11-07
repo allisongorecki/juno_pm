@@ -103,4 +103,4 @@ If Juno fails, it will generate a notification email that it failed at x time an
 
 **Checkpoints:**
 
-Its a very simple agent, so there's not fixed point needed in this workflow.
+Its a very simple agent, so there's not fixed point needed in this workflow as its a human who reviews the output every single time. 
