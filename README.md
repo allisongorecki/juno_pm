@@ -2,7 +2,7 @@
 
 > _(one-line pitch: what Juno does, for whom, in one sentence)_
 
-_Your name · cohort · date_
+_Allison Gorecki · October 2026 cohort · November 7, 2026
 
 This repo is my final project for the **AI Product Management Certification**. Each module's artifact lives in its own folder.
 
