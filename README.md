@@ -1,8 +1,8 @@
 # Juno PM
 
-> _(one-line pitch: what Juno does, for whom, in one sentence)_
+Juno gathers insights on features (improvements and need for new features) from slack threads, jira tickets, and notion documents on a weekly basis and generates feature request tickets in Jira every Monday morning the following week for the product manager to review and prioritise. 
 
-_Allison Gorecki · October 2026 cohort · November 7, 2026
+Allison Gorecki · October 2026 cohort · November 7, 2026
 
 This repo is my final project for the **AI Product Management Certification**. Each module's artifact lives in its own folder.
 
