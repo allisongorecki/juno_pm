@@ -54,4 +54,4 @@ If Juno fails it will Generate a feature request ticket with the title "Synthesi
 
 **Checkpoints:**
 
-Its a very simple agent, so there's not fixed point needed in this workflow.
+Checkpoint is after a feature request ticket is flagged or created. 
